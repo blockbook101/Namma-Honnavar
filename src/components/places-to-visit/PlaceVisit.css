@@ -1,0 +1,32 @@
+.main-head{
+    color: #ffffff;
+    position: absolute;
+    font-size: 6em;
+    text-align: left;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+#places{
+    color:crimson;
+}
+
+.place-to-visit{
+    height: 200vh;
+    background-color: #221f1f;
+}
+
+.places-image-container{
+    margin-left: 13em;
+    margin-top: 27em;
+    position: absolute;
+    background-color: aqua;
+    height: 100vh;
+    width: 55vw;
+}
+
+.place-1{
+    background-color: blueviolet;
+    height: 22vh;
+    width: 35vw;
+}
